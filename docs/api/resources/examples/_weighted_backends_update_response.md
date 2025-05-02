@@ -4,11 +4,11 @@
 
 ```json
 {
-	"backends": {},
-	"created_at": "2025-04-25T22:55:35Z",
-	"description": "acme weighted",
-	"id": "bkdwd_2wEztRnGepC8x556glZXb3CgnRR",
-	"metadata": "{\"environment\": \"production\"}",
-	"uri": "https://api.ngrok.com/backends/weighted/bkdwd_2wEztRnGepC8x556glZXb3CgnRR"
+  "backends": {},
+  "created_at": "2025-05-02T10:10:55Z",
+  "description": "acme weighted",
+  "id": "bkdwd_2wXGlVIqpy6YFM2KoowM7s2x2D4",
+  "metadata": "{\"environment\": \"production\"}",
+  "uri": "https://api.ngrok.com/backends/weighted/bkdwd_2wXGlVIqpy6YFM2KoowM7s2x2D4"
 }
 ```

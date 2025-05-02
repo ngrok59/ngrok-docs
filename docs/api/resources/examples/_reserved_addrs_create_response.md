@@ -4,12 +4,12 @@
 
 ```json
 {
-	"addr": "1.tcp.ngrok.io:20000",
-	"created_at": "2025-04-25T22:55:13Z",
-	"description": "SSH for device #001",
-	"endpoint_configuration": null,
-	"id": "ra_2wEzqm9zTiYDJD2Sk1B58ACllAO",
-	"region": "us",
-	"uri": "https://api.ngrok.com/reserved_addrs/ra_2wEzqm9zTiYDJD2Sk1B58ACllAO"
+  "addr": "1.tcp.ngrok.io:20000",
+  "created_at": "2025-05-02T10:10:33Z",
+  "description": "SSH for device #001",
+  "endpoint_configuration": null,
+  "id": "ra_2wXGiiXKEmQsGvR9KzH1duTHFOs",
+  "region": "us",
+  "uri": "https://api.ngrok.com/reserved_addrs/ra_2wXGiiXKEmQsGvR9KzH1duTHFOs"
 }
 ```

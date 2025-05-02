@@ -4,10 +4,10 @@
 
 ```json
 {
-	"backend": {
-		"id": "bkdtg_2wEzu0iXMZrMzgC7FYR7ZUveBwM",
-		"uri": "https://api.ngrok.com/backends/tunnel_group/bkdtg_2wEzu0iXMZrMzgC7FYR7ZUveBwM"
-	},
-	"enabled": true
+  "backend": {
+    "id": "bkdtg_2wXGlwRRu8EHGpdwu0jWXrjW2Vp",
+    "uri": "https://api.ngrok.com/backends/tunnel_group/bkdtg_2wXGlwRRu8EHGpdwu0jWXrjW2Vp"
+  },
+  "enabled": true
 }
 ```
